@@ -1,5 +1,5 @@
 ### whoami
-Hi there 👋 This is [ARES](https://ares.github.io)
+Hi there 👋 This is [ARES](https://ares-ns.github.io)
 
 website coming soon...
 
