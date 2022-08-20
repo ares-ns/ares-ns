@@ -1,7 +1,5 @@
 ### whoami
-Hi there 👋 This is [ARES](https://ares-ns.github.io)
-
-website coming soon...
+Hi there 👋 This is [ARES](https://ares-ns.pages.dev)
 
 ## About:
 
